@@ -1,7 +1,7 @@
 # CSV to Array
 ## Convert CSV to Associative Array
 
-Provided are 2 files: *left.csv* and *right.csv*. The problem has 2 steps.
+This project should be completed in PHP. Provided are 2 files: *left.csv* and *right.csv*. The problem has 2 steps.
 
 ### Step 1
 
